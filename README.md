@@ -10,7 +10,7 @@ done in this pull request so that others can read what is being worked on
 
 # Hello Microverse
 
-> This is just mobile first home page project
+> Portfolio mobile version
 
 ## Built With
 
