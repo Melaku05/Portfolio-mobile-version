@@ -24,8 +24,8 @@ done in this pull request so that others can read what is being worked on
 Run these commands to have this project on you local PC
 
 ```shell
-git clone https://github.com/Melaku05/Portfolio-setup-and-mobile-version-skeleton
-cd Portfolio-setup-and-mobile-version-skeleton
+git clone https://github.com/Melaku05/Portfolio-mobile-version
+cd Portfolio-mobile-version
 ```
 
 ## Author
